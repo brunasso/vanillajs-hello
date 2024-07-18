@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+html, body{
+    height: 100%;
+    margin: 0;
+}
+.excuseContainer{
+    display: grid;
+    width: 100%;
+    height: 100%;
+}
+#textExcuses{
+    margin: auto;
+}
+#textExcuses h1{
+    text-align: center;
+}
+#textExcuses p{
+    font-size: xx-large;
+}
